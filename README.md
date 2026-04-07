@@ -7,33 +7,12 @@
 
 <br/>
 
-- 🍒  A post-95s person who loves software development.
-- 📍  安徽(AH).
-- 👨‍🎓  SDU.
-- 👩‍💻  2 years of work.
-- 📧  [jdearfaust@qq.com](mailto:jdearfaust@qq.com).
+- 🔭 安徽95后，山东大学毕业生
+- 🌱 正在学习：Rust / Go / AI
+- 👯 希望交到志同道合的朋友，一起做有意思的项目
+- 📫 联系邮箱：jdearfaust@qq.com
+- ⚡ 日常：写代码、听音乐、看动漫、赛车
 <br/>
-<br/>
-
-You are my ![Visitor Count](https://profile-counter.glitch.me/nineteencontinents/count.svg)th visitor
-
-<br/>
-<br/>
-
-
-# About My Github
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hqwlkj&layout=compact&langs_count=8&theme=cobalt)](https://github.com/hqwlkj/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=hqwlkj&show_icons=true&theme=cobalt)](https://github.com/hqwlkj/github-readme-stats)-->
-
-<div align="left">
-<img height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=hqwlkj&hide=html,css,Jupyter+Notebook,ruby,javascript,Makefile,Less,TypeScript,Starlark,Groovy,Shell,Batchfile&layout=compact&langs_count=8&theme=cobalt" align="center" />
-<img height='180' src="https://github-readme-stats.vercel.app/api?username=hqwlkj&show_icons=true&theme=cobalt" align="center" />
-</div>  
-
-<br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -120,12 +99,10 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/nineteencontinents
 
 
 
-## Connect with me  
-<div align="left">
-<a href="https://github.com/hqwlkj" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-</div>  
+### 📫 联系我
+
+[![Gmail](https://img.shields.io/badge/-jdearfaust@qq.com-D14841?style=flat&logo=Gmail&logoColor=white)](mailto:jdearfaust@qq.com)
+[![GitHub](https://img.shields.io/badge/-hqwlkj-333333?style=flat&logo=GitHub)](https://github.com/hqwlkj)
   
 
 <br/>  
